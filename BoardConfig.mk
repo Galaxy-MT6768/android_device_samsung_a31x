@@ -148,4 +148,3 @@ TW_MTP_DEVICE := "Galaxy A31"
 
 # Making the recovery.img smaller
 BOARD_HAS_NO_REAL_SDCARD := true
-
