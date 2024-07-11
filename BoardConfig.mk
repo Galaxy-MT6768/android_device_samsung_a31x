@@ -4,7 +4,7 @@ ALLOW_MISSING_DEPENDENCIES := true
 # Bootloader
 BOARD_VENDOR := samsung
 TARGET_SOC := mt6768
-TARGET_BOOTLOADER_BOARD_NAME := k68v1_64_titan
+TARGET_BOOTLOADER_BOARD_NAME := a31
 TARGET_NO_BOOTLOADER := true
 TARGET_NO_RADIOIMAGE := true
 TARGET_USES_UEFI := true
@@ -127,7 +127,7 @@ TW_MAX_BRIGHTNESS := 255
 TW_DEFAULT_BRIGHTNESS := 200
 TW_USE_SAMSUNG_HAPTICS := true
 
-# Screen Offsets
+# Screen Offsets (if you don't need offset, delete this)
 TW_Y_OFFSET := 80
 TW_H_OFFSET := -80
 
