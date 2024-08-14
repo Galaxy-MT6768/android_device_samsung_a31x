@@ -61,4 +61,4 @@ Run ``chmod +x device/samsung/a31/mkbootimg`` to avoid building issues.
 > - [x] set brightness
 > - [x] vibrate
 > - [x] screenshot
-> - [ ] partition SD card
+> - [x] partition SD card
