@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/twrp_a31.mk
+	$(LOCAL_DIR)/fox_a31.mk
 
 COMMON_LUNCH_CHOICES := twrp_a31-eng
